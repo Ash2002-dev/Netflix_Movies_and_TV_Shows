@@ -13,6 +13,14 @@ This project is a Power BI dashboard that provides insights into Netflix's perfo
 ### Data Source
 The dashboard is built using data sourced from a Netflix dataset available on Kaggle. The dataset includes information on Netflix titles, user interactions, and revenue performance. The dataset is provided in the repository for convenience.
 
+### Prerequisites
+
+- Power BI Desktop: Download Power BI Desktop
+- Dataset: The dataset is included in the repository under the Data folder.
+
+## Author
+ASHISH HALIJOL
+
 ### Technologies Used:
 
 - Power BI: For data visualization and dashboard development.
